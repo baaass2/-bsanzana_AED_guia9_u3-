@@ -9,6 +9,8 @@ Implementación de Tabla Hash y resoluciones de colisiones.
 A través de un menú se pueden ingresar 20 números que se guardaran
 en un arreglo, estos se van ordenando gracias a la función Hash, además si ocurriera una colision se resuelve por medio del metedo que el usuario señale al inicio del programa.
 
+La función hash trabaja con modulo 20 del número(N) ingresado por el usuario.
+
 ## Para iniciar el programa.
 Estando en la terminal de la carpeta del programa escribir.
 
